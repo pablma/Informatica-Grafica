@@ -1,0 +1,19 @@
+﻿  Entities.cpp
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\entities.cpp(433): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLint'; posible pérdida de datos
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\entities.cpp(469): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLint'; posible pérdida de datos
+  main.cpp
+  Mesh.cpp
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(173): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(174): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(186): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(191): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(192): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(196): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(197): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\pablo\documents\universidad\portfolio class\webpage\material\wetransfer-16a292\practica1\practica1\practica1\ig\informatica-grafica-i\myapp\mesh.cpp(224): warning C4018: '<': no coinciden signed/unsigned
+  Pixmap32RGBA.cpp
+  Scene.cpp
+  Camera.cpp
+  Texture.cpp
+  Generando código...
+  MyApp.vcxproj -> C:\Users\Pablo\Documents\Universidad\Portfolio Class\WebPage\Material\wetransfer-16a292\Practica1\Practica1\Practica1\IG\Informatica-Grafica-I\bin\MyAppDebug.exe
